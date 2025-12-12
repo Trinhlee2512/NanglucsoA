@@ -23,7 +23,7 @@
                     <i class="fas fa-microchip text-blue-400"></i>
                     AI Supermarket Simulator (M/M/1)
                 </h1>
-                <p class="text-slate-300 mt-2"> Tính Xác suất của mô hình xếp hàng M/M/1</p>
+                <p class="text-slate-300 mt-2">Giải pháp tối ưu hóa hàng đợi dựa trên lý thuyết xác suất và toán học chuyên sâu</p>
             </div>
             <div class="mt-4 md:mt-0 flex gap-4">
                 <div class="bg-emerald-500/20 border border-emerald-500/30 rounded-lg px-4 py-2 text-sm text-emerald-300">
